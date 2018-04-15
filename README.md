@@ -8,7 +8,7 @@ After cloning repository, just
 - npm build / yarn build
 
 Sample Page
-[http://nickbruinsma.nl](nickbruinsma.nl)
+[nickbruinsma.nl](http://nickbruinsma.nl)
 
 ##Credits
 - [sbayd](https://github.com/sbayd)
