@@ -4,36 +4,20 @@ export const experiences = {
   description: null,
   list: [
     {
-      title: 'Lead Software Developer',
-      company: 'JotForm',
-      description: 'I\'m working as a lead developer at JotForm Source team. We are creating some amazing features for JotForm!',
-      companyLink: 'http://jotform.com',
+      title: 'Lead Frontend Developer',
+      company: 'Skinnyminds',
+      description: 'Skills: Javascript, React/Redux, Mocha, Node.js, Babel, Webpack, Swift & Xcode </br></br> <ul><li>Responsible for all aspects of frontend architecture and development, including business focussed trade-offs around technology, features, quality and test strategy.</li><li>Developed an iOS app with more than 1000 live users</li><li>Lead rapid development of an Android app. From concept to Play store.</li><li>Created frontend solutions for several campaigns:<ol><li>Developed 5+ websites for campaign purposes</li><li>Created Javascript solutions for internal workflows</li><li>Created automated invitation system for clients to join slack groups with Node.js</li></ol></li></ul>',
+      companyLink: 'http://skinnyminds.nl',
       companyShortDetail: '',
-      date: '2017.10 - Present'
+      date: '2017.01 - Present'
     },
     {
-      title: 'Software Developer',
-      company: 'JotForm',
-      description: 'I\'m using ReactJS and working as a front-end developer to develop new features for JotForm.',
-      companyLink: 'http://jotform.com',
+      title: 'Freelance Frontend Developer',
+      company: 'Pixelblueapps',
+      description: 'Worked on several mobile and web applications for different clients.<ul><li>Developed several native iOS apps for clients.</li><li>Worked on React components with other companies.</li><li>Developed several web applications for clients</li></ul> Please contact me for more information.',
+      companyLink: 'http://nickbruinsma.nl',
       companyShortDetail: '',
-      date: '2016.8 - 2017.10'
-    },
-    {
-      title: 'Full-Stack Developer',
-      company: 'YD Software',
-      description: 'I was using ASP.Net MVC Framework with N Tier Architecture to develop management systems, learning management systems & big data projects. And i was developing Android / IOS applications using Xamarin or NDK. You can see projects that I have completed for YD Software <a href=\'#projects\'>below.</a>',
-      companyLink: 'http://ydyazilim.com',
-      companyShortDetail: 'ANKARA METU Technopolis(ODTU Teknokent)',
-      date: '2012 - 2016.8'
-    },
-    {
-      title: 'Intern',
-      company: 'YD Software',
-      description: 'I was warming up with a Learning Management System including desktop and web apps.',
-      companyLink: 'http://ydyazilim.com',
-      companyShortDetail: 'ANKARA METU Technopolis(ODTU Teknokent)',
-      date: '2012.06 - 2012.10'
+      date: '2015.01 - 2016.12'
     }
   ]
 };

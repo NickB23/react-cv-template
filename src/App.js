@@ -51,7 +51,7 @@ export default class CV extends Component {
         <div className="main-wrapper">
           {this.renderCareerProfile()}
           {this.renderExperiencesSection()}
-          {this.renderProjectsSection()}
+          {/* {this.renderProjectsSection()} */}
           {this.renderTags()}
         </div>
       </div>

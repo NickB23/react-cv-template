@@ -1,26 +1,26 @@
 const profile = {
-  name: 'S.Berkay Aydın',
-  title: 'Full Stack Developer',
-  mail: 'sbaydin06@gmail.com',
-  phoneNumber: '+90 (507) 808 4130',
-  website: 'sbaydin.com',
-  linkedin: 'linkedin.com/in/sbaydin',
-  github: 'github.com/sbayd',
+  name: 'Nick Bruinsma',
+  title: 'Frontend Developer',
+  mail: 'info@nickbruinsma.nl',
+  phoneNumber: '+31638517281',
+  website: 'nickbruinsma.nl',
+  linkedin: 'linkedin.com/in/nickbruinsma',
+  github: 'github.com/nickb23',
   imagePath: 'profile.png',
-  twitter: null,
+  twitter: 'https://twitter.com/nick_browns',
   educationDetails: {
     sectionTitle: '',
     list: [
-      { name: 'BSc in CEIT', school: 'Hacettepe University', date: '2013-Present' },
+      { name: 'Master Recht & ICT', school: 'Rijksuniversiteit Groningen', date: '2015-2017' },
     ]
   },
   languages: {
     sectionTitle: 'Languages',
-    list: [{ name: 'Turkish', level: 'Native' }, { name: 'English', level: 'Professional' }, { name: 'Spanish', level: 'Beginner' }]
+    list: [{ name: 'Dutch', level: 'Native' }, { name: 'English', level: 'Professional' }, { name: 'Portuguese', level: 'Beginner' }]
   },
   interests: {
     sectionTitle: '',
-    list: ['Pipes', 'Analog Photography', 'Cooking', 'Archery', 'Poems', 'Drums']
+    list: ['Programming', 'Marketing', 'SEO', 'Growth Hacking', 'Brazilian Culture', 'Traveling']
   }
 };
 
